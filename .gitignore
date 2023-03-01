@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets 
+datasets/*
+
+# Dir file linking to root needed for Jupyter's Pyright LSP to function properly
+dir
