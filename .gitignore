@@ -136,3 +136,6 @@ dir
 
 # Jupyter files
 .virtual_documents
+
+# Jupyter sessions
+jupyter_sessions
