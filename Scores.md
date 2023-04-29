@@ -53,3 +53,9 @@ Ngram_range = (1,6)
 - Silhouette Score: 0.3760824861012863
 - Calinski-Harabasz Index: 1314.3402354925827
 - Davies-Bouldin Index: 0.30394380049564845
+
+Ngram_range = (1,5)
+
+- Silhouette Score: 0.375777584363468
+- Calinski-Harabasz Index: 1134.77627081612
+- Davies-Bouldin Index: 0.3099807140343013
