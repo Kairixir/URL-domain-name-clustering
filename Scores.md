@@ -33,3 +33,23 @@ Clusters left 21078
 - Silhouette Score: 0.394332678120356
 - Calinski-Harabasz Index: 2121.956261477304
 - Davies-Bouldin Index: 0.2418388814956972
+
+
+Ngram_range(1,6)
+
+Samples = 40000
+
+Clusters left 20959
+
+- Silhouette Score: 0.3873160908743396
+- Calinski-Harabasz Index: 1844.4039985962393
+- Davies-Bouldin Index: 0.25929544332685023
+
+
+## Introduction of reproducible random sample selection
+
+Ngram_range = (1,6)
+
+- Silhouette Score: 0.3760824861012863
+- Calinski-Harabasz Index: 1314.3402354925827
+- Davies-Bouldin Index: 0.30394380049564845
