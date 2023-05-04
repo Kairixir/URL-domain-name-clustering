@@ -139,3 +139,6 @@ dir
 
 # Jupyter sessions
 jupyter_sessions
+
+# Hidden files
+.hidden
