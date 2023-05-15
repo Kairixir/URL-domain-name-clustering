@@ -142,3 +142,7 @@ jupyter_sessions
 
 # Hidden files
 .hidden
+
+# Visualisations export
+visualisations/pdf
+visualisations/svg
